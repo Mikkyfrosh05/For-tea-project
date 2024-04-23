@@ -2,7 +2,7 @@
   "name": "task-adder",
   "version": "1.0.0",
   "description": "A simple task adder project",
-  "main": "index.js",
+  "main": "chat.js",
   "scripts": {
     "start": "node index.js"
   },
